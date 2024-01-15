@@ -1,0 +1,84 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2023-03-31T00:43:36.797Z",
+    "redirects": [
+        {
+            "description": "Retra",
+            "exampleUrl": "https://marioroyale.com/royale/img/game/smb_infringio.png",
+            "exampleResult": "https://media.discordapp.net/attachments/552517257927065612/1091151421119926352/image.png?width=384&height=720",
+            "error": null,
+            "includePattern": "*https://marioroyale.com/royale/img/game/smb_infringio.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://media.discordapp.net/attachments/552517257927065612/1091151421119926352/image.png?width=384&height=720",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "Retra Head",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/infhead.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/552517257927065612/1089699019573436426/image.png",
+            "error": null,
+            "includePattern": "*https://marioroyale.com/royale/img/home/infhead.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/552517257927065612/1089699019573436426/image.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "Retra Head select",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/infselect.png",
+            "exampleResult": "https://media.discordapp.net/attachments/552517257927065612/1089699028557643917/image.png?width=24&height=24",
+            "error": null,
+            "includePattern": "*https://marioroyale.com/royale/img/home/infselect.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://media.discordapp.net/attachments/552517257927065612/1089699028557643917/image.png?width=24&height=24",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        }
+    ]
+}

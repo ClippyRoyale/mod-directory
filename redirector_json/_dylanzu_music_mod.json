@@ -1,0 +1,32 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2021-04-27T20:59:47.316Z",
+    "redirects": [
+        {
+            "description": "Dylanzu Music Mod",
+            "exampleUrl": "https://raw.githubusercontent.com/mroyale/assets/master/audio/music/song.mp3",
+            "exampleResult": "https://dylanzu.github.io/royale/music/song.mp3",
+            "error": null,
+            "includePattern": "*https://raw.githubusercontent.com/mroyale/assets/master/audio/music/*",
+            "excludePattern": "",
+            "patternDesc": "Redirects music only.",
+            "redirectUrl": "https://dylanzu.github.io/royale/music/$2",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        }
+    ]
+}

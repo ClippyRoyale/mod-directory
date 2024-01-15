@@ -1,0 +1,108 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2023-02-11T23:53:19.066Z",
+    "redirects": [
+        {
+            "description": "charselect marhead",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/marhead.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115158860894289/marhead.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/marhead.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115158860894289/marhead.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "charselect marselect",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/marselect.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159150305381/marselect.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/marselect.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159150305381/marselect.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "charselect luihead",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/luihead.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115160861577326/luihead.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/luihead.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115160861577326/luihead.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "charselect luiselect",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/luiselect.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115160664453240/luiselect.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/luiselect.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115160664453240/luiselect.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "charselect infhead",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/infhead.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159469068288/infhead.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/infhead.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159469068288/infhead.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        },
+        {
+            "description": "charselect infselect",
+            "exampleUrl": "https://marioroyale.com/royale/img/home/infselect.png",
+            "exampleResult": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159737507940/infselect.png",
+            "error": null,
+            "includePattern": "https://marioroyale.com/royale/img/home/infselect.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/683518697322840110/1074115159737507940/infselect.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "image"
+            ]
+        }
+    ]
+}
