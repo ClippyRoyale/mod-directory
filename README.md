@@ -5,6 +5,6 @@ The inclusion of a mod file in this repository does not necessarily mean I endor
 
 Includes the ChatGPT-written program to extract images out of Mod Manager JSONs.
 
-pop the pigs
+Also includes custom worlds' mapsheets that used to be hosted on Discord.
 
-get 5 stars
+Does not include the W.
